@@ -1,5 +1,4 @@
 ## Hi there 👋,
----
 ### I'm Mohammed Faheem Farooq
 
 - 🌱 I’m currently learning web development
