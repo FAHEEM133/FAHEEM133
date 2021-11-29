@@ -1,7 +1,6 @@
 ## Hi there 👋,
 ### I'm Mohammed Faheem Farooq
 
-- 🌱 currently learning web development
 - 🙌 intrested to collaborate on open source projects
 - 📫 How to reach me : Email - mhd.faheem00@gmail.com
 - ⚡ Hobbies : Photography, Music, Movies
