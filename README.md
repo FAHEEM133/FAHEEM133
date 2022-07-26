@@ -1,7 +1,7 @@
 ## Hi there 👋,
 ### I'm Mohammed Faheem Farooq
 
-- 🙌 intrested to collaborate on open source projects
+// - 🙌 intrested to collaborate on open source projects
 - 📫 How to reach me : Email - mhd.faheem00@gmail.com
 - ⚡ Hobbies : Photography, Music, Movies
 
